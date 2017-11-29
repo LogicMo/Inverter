@@ -1,0 +1,10 @@
+/* You can add global styles to this file, and also import other style files */
+h3 {
+    text-align: center;
+}
+table tr th {
+    /* border: 1px solid black; */
+}
+.inverter {
+    text-align: center;
+}
